@@ -2,14 +2,8 @@
 <div  style="background-color:  #101010; padding:  2.2rem; border-radius:  1rem; border:  solid  1px  #252525; color:  #eee">
 
   
-
-<a  href="https://github.com/lucasdasilva182"  style="color:  #EEE; text-decoration:  none">
-
 # Lucas Silva
 
-  
-
-</a>
 
 
 ### I'm Full-Stack Developer 💻
