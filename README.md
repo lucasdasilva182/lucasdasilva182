@@ -28,7 +28,7 @@ import { JS } from '@life/core'
 ### Stack
  
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,react,vue,next,tailwind,nodejs,express,postgres,mysql,prisma,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,angular,vue,next,tailwind,nodejs,nestjs,express,postgres,mysql,prisma,firebase)](https://skillicons.dev)
 
   
 
